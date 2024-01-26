@@ -1,0 +1,36 @@
+.task-hold-main {
+  margin: 10px;
+  border: solid 1px #e4e4e4;
+  border-radius: 5px;
+  height: 150px;
+}
+
+.task-hold {
+  display: flex;
+  justify-content: space-between;
+  background-color: aqua;
+  padding: 10px;
+  border-bottom: solid 1px #e4e4e4;
+}
+
+.assign-det {
+  display: flex;
+  flex-direction: column;
+}
+
+.assign-det p {
+  margin: 10px 0px 5px 15px;
+  font-size: 13px;
+  font-weight: 250;
+}
+
+.assign-title-hold {
+  margin: 10px 10px;
+  display: flex;
+  word-spacing: 1px;
+}
+
+.assign-logo {
+  height: 25px;
+  display: flex;
+}

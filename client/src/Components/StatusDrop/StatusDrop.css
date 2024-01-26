@@ -1,0 +1,13 @@
+.drop-down-hold {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: aqua;
+  margin: calc(100% - 99%);
+}
+
+.caret-image-hold img {
+  background-color: aqua;
+  width: 15px;
+  padding: 0px 10px;
+}

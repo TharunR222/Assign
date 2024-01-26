@@ -1,0 +1,21 @@
+.desc-header {
+  background-color: blanchedalmond;
+  height: 50px;
+  color: #686c71;
+  display: flex;
+  position: fixed;
+  width: 100%;
+  z-index: 100;
+  top: 0;
+  align-items: center;
+}
+
+.desc-header-div {
+  height: 50px;
+}
+
+.back-logo {
+  height: 20px;
+  display: flex;
+  margin-left: 15px;
+}

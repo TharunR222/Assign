@@ -1,0 +1,24 @@
+.header {
+  background-color: blanchedalmond;
+  height: 50px;
+  color: #686c71;
+  border-bottom: solid 1px #e4e4e4;
+  display: flex;
+  justify-content: space-around;
+  position: fixed;
+  width: 100%;
+  z-index: 100;
+  top: 0;
+  align-items: center;
+}
+
+.header-div {
+  height: 50px;
+}
+
+.app-name {
+  display: flex;
+  background-color: aqua;
+  font-size: 25px;
+  align-items: center;
+}

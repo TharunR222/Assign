@@ -1,0 +1,26 @@
+.stud-cont-stat {
+  display: flex;
+  justify-content: space-between;
+  margin: calc(100% - 99%);
+  border-bottom: solid 1px #DADCE0;
+  padding: 2px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 98%;
+  margin: auto;
+}
+
+tr {
+  border-bottom: 2px solid #DADCE0;
+}
+
+td {
+  padding: 15px 0px;
+}
+
+tr:nth-child(odd) {
+  background-color: #D6EEEE;
+  border-radius: 10px;
+}
